@@ -5,6 +5,8 @@ Ce projet propose une application de gestion hôtelière développée en Python 
 # 🚀 Comment lancer ce projet
 1. Téléchargez ou clonez ce dépôt sur votre ordinateur.
 2. Installer Streamlit s’il n’est pas déjà installé :
-    pip install streamlit
-3. Lancer le projet avec Streamlit :
-    streamlit run Python.py
+
+       pip install streamlit
+4. Lancer le projet avec Streamlit :
+
+       streamlit run Python.py
